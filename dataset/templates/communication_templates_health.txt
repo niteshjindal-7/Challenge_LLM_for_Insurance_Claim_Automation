@@ -1,0 +1,91 @@
+
+[health_template_1]
+We need to discuss the details of the health incident that occurred. [incident_description]
+
+[health_template_2]
+I would like to schedule a meeting to go over the health incident. [incident_description]
+
+[health_template_3]
+Please provide additional information regarding the health incident. [incident_description]
+
+
+[health_template_4]
+We have reviewed the details of the health incident. [incident_description]
+
+[health_template_5]
+I request a comprehensive report on the health incident that took place. [incident_description]
+
+[health_template_6]
+Kindly provide a detailed account of the health incident for documentation purposes. [incident_description]
+
+[health_template_7]
+We need to investigate the circumstances surrounding the health incident. [incident_description]
+
+[health_template_8]
+Please submit all relevant documentation related to the health incident. [incident_description]
+
+[health_template_9]
+I would appreciate a summary of the health incident, including any contributing factors. [incident_description]
+
+[health_template_10]
+It is essential to gather all pertinent information about the health incident. [incident_description]
+
+[health_template_11]
+I request a meeting to discuss the health incident in depth. [incident_description]
+
+[health_template_12]
+Please provide a timeline of events leading up to the health incident. [incident_description]
+
+[health_template_13]
+We need to assess the impact and consequences of the health incident. [incident_description]
+
+[health_template_14]
+I would like to analyze the root cause of the health incident. [incident_description]
+
+[health_template_15]
+Please share any witness statements or testimonies related to the health incident. [incident_description]
+
+[health_template_16]
+It is important to evaluate the response and actions taken during the health incident. [incident_description]
+
+[health_template_17]
+I request a thorough investigation into the factors that contributed to the health incident. [incident_description]
+
+[health_template_18]
+Please provide any available data or statistics regarding similar health incidents. [incident_description]
+
+[health_template_19]
+We need to establish preventive measures to avoid future occurrences of similar health incidents. [incident_description]
+
+[health_template_20]
+I would like to schedule a debriefing session to discuss lessons learned from the health incident. [incident_description]
+
+[health_template_21]
+Please gather information on the impact of the health incident on the affected individual or individuals. [incident_description]
+
+[health_template_22]
+We need to ensure that appropriate corrective actions are implemented following the health incident. [incident_description]
+
+[health_template_23]
+I request a thorough analysis of the policies and procedures related to the health incident. [incident_description]
+
+[health_template_24]
+Please provide a comprehensive summary of the response and management of the health incident. [incident_description]
+
+[health_template_25]
+It is crucial to communicate the details of the health incident to the relevant stakeholders. [incident_description]
+
+[health_template_26]
+I would like to discuss any legal implications or liabilities associated with the health incident. [incident_description]
+
+[health_template_27]
+Please share any recommendations or suggestions for improvement based on the health incident. [incident_description]
+
+[health_template_28]
+We need to ensure proper documentation and record-keeping of the health incident. [incident_description]
+
+[health_template_29]
+I request an analysis of the impact of the health incident on the organization or institution. [incident_description]
+
+[health_template_30]
+Please provide an overview of the resources and support required following the health incident. [incident_description]

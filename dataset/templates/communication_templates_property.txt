@@ -1,0 +1,116 @@
+[property_template_1]
+I would like to file a property insurance claim for the damages incurred to my property. [incident_description]
+
+[property_template_2]
+Please initiate the process for my property insurance claim. [incident_description]
+
+[property_template_3]
+I am writing to report a property damage incident and request assistance with my insurance claim. [incident_description]
+
+[property_template_4]
+Kindly provide guidance on how to proceed with my property insurance claim. [incident_description]
+
+[property_template_5]
+I need to report a property loss and start the claim process as soon as possible. [incident_description]
+
+[property_template_6]
+Please review the attached documentation regarding the property damage for my insurance claim. [incident_description]
+
+[property_template_7]
+I request an appraisal of the property damage for the purpose of my insurance claim. [incident_description]
+
+[property_template_8]
+I am seeking reimbursement for the repairs and restoration of my property. [incident_description]
+
+[property_template_9]
+Please assign an adjuster to assess the property damage and assist with my insurance claim. [incident_description]
+
+[property_template_10]
+I would like to schedule a meeting to discuss the details of my property insurance claim. [incident_description]
+
+[property_template_11]
+Please provide the necessary forms and documentation required for my property insurance claim. [incident_description]
+
+[property_template_12]
+I request a thorough evaluation of the property damage and an estimate for the insurance claim. [incident_description]
+
+[property_template_13]
+Please communicate with the relevant parties involved in the property damage incident for my insurance claim. [incident_description]
+
+[property_template_14]
+I would appreciate regular updates on the progress of my property insurance claim. [incident_description]
+
+[property_template_15]
+Please inform me of any additional information or documentation needed to process my property insurance claim. [incident_description]
+
+[property_template_16]
+I request a timeline for the resolution of my property insurance claim. [incident_description]
+
+[property_template_17]
+Please provide clarification on the coverage and policy details relevant to my property insurance claim. [incident_description]
+
+[property_template_18]
+I need assistance with documenting and itemizing the damaged property for my insurance claim. [incident_description]
+
+[property_template_19]
+Please guide me through the steps involved in the property insurance claim settlement process. [incident_description]
+
+[property_template_20]
+I would like to discuss the possibility of an interim payment for my property insurance claim. [incident_description]
+
+[property_template_21]
+I am writing to report a property incident and request assistance in filing an insurance claim. [incident_description]
+
+[property_template_22]
+Please assign a claims adjuster to assess the property damage and guide me through the insurance claim process. [incident_description]
+
+[property_template_23]
+I need to submit a property insurance claim due to the loss or damage incurred. [incident_description]
+
+[property_template_24]
+Please provide me with the necessary forms and instructions to initiate my property insurance claim. [incident_description]
+
+[property_template_25]
+I would like to schedule an appointment to discuss the details of my property insurance claim. [incident_description]
+
+[property_template_26]
+I request a thorough inspection of the property damage by a qualified professional for my insurance claim. [incident_description]
+
+[property_template_27]
+Please review the evidence and documentation I have gathered regarding the property incident for my insurance claim. [incident_description]
+
+[property_template_28]
+I am seeking reimbursement for the replacement or repair costs associated with the property damage. [incident_description]
+
+[property_template_29]
+Please keep me informed about the progress of my property insurance claim and any updates regarding its status. [incident_description]
+
+[property_template_30]
+I would appreciate your guidance in understanding the coverage and policy terms related to my property insurance claim. [incident_description]
+
+[property_template_31]
+Please provide an estimated timeline for the resolution and settlement of my property insurance claim. [incident_description]
+
+[property_template_32]
+I need assistance in documenting the items and belongings affected by the property incident for my insurance claim. [incident_description]
+
+[property_template_33]
+Please ensure that all necessary parties involved in the property incident are contacted and informed about my insurance claim. [incident_description]
+
+[property_template_34]
+I request a fair assessment and evaluation of the property damage to ensure an accurate insurance claim settlement. [incident_description]
+
+[property_template_35]
+Please notify me if there are any additional requirements or information needed to process my property insurance claim. [incident_description]
+
+[property_template_36]
+I would like to discuss the possibility of temporary accommodations or alternative living arrangements during the property restoration period. [incident_description]
+
+[property_template_37]
+Please inform me of any deductible amount or excess applicable to my property insurance claim. [incident_description]
+
+[property_template_38]
+I request a detailed breakdown of the coverage and benefits associated with my property insurance policy in relation to the incident. [incident_description]
+
+[property_template_39]
+Please provide guidance on how to mitigate any further damage or loss while my property insurance claim is being processed. [incident_description]

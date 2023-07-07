@@ -1,0 +1,89 @@
+[auto_template_1]
+We need to discuss the details of the auto incident that occurred. [incident_description]
+
+[auto_template_2]
+I would like to schedule a meeting to go over the auto incident. [incident_description]
+
+[auto_template_3]
+Please provide additional information regarding the auto incident. [incident_description]
+
+[auto_template_4]
+We have reviewed the details of the auto incident. [incident_description]
+
+[auto_template_5]
+I request a comprehensive report on the auto incident that took place. [incident_description]
+
+[auto_template_6]
+Kindly provide a detailed account of the auto incident for documentation purposes. [incident_description]
+
+[auto_template_7]
+We need to investigate the circumstances surrounding the auto incident. [incident_description]
+
+[auto_template_8]
+Please submit all relevant documentation related to the auto incident. [incident_description]
+
+[auto_template_9]
+I would appreciate a summary of the auto incident, including any contributing factors. [incident_description]
+
+[auto_template_10]
+It is essential to gather all pertinent information about the auto incident. [incident_description]
+
+[auto_template_11]
+I request a meeting to discuss the auto incident in depth. [incident_description]
+
+[auto_template_12]
+Please provide a timeline of events leading up to the auto incident. [incident_description]
+
+[auto_template_13]
+We need to assess the impact and consequences of the auto incident. [incident_description]
+
+[auto_template_14]
+I would like to analyze the root cause of the auto incident. [incident_description]
+
+[auto_template_15]
+Please share any witness statements or testimonies related to the auto incident. [incident_description]
+
+[auto_template_16]
+It is important to evaluate the response and actions taken during the auto incident. [incident_description]
+
+[auto_template_17]
+I request a thorough investigation into the factors that contributed to the auto incident. [incident_description]
+
+[auto_template_18]
+Please provide any available data or statistics regarding similar auto incidents. [incident_description]
+
+[auto_template_19]
+We need to establish preventive measures to avoid future occurrences of similar auto incidents. [incident_description]
+
+[auto_template_20]
+I would like to schedule a debriefing session to discuss lessons learned from the auto incident. [incident_description]
+
+[auto_template_21]
+Please gather information on the impact of the auto incident on the affected individual or individuals. [incident_description]
+
+[auto_template_22]
+We need to ensure that appropriate corrective actions are implemented following the auto incident. [incident_description]
+
+[auto_template_23]
+I request a thorough analysis of the policies and procedures related to the auto incident. [incident_description]
+
+[auto_template_24]
+Please provide a comprehensive summary of the response and management of the auto incident. [incident_description]
+
+[auto_template_25]
+It is crucial to communicate the details of the auto incident to the relevant stakeholders. [incident_description]
+
+[auto_template_26]
+I would like to discuss any legal implications or liabilities associated with the auto incident. [incident_description]
+
+[auto_template_27]
+Please share any recommendations or suggestions for improvement based on the auto incident. [incident_description]
+
+[auto_template_28]
+We need to ensure proper documentation and record-keeping of the auto incident. [incident_description]
+
+[auto_template_29]
+I request an analysis of the impact of the auto incident on the organization or institution. [incident_description]
+
+[auto_template_30]
+Please provide an overview of the resources and support required following the auto incident. [incident_description]
